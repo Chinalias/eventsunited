@@ -1,6 +1,6 @@
 token=NDkxMjYyNjc3NTE2MTU2OTMy.DoFcpA.BdGisijU9qjHCrEUw31jtsHPnHE
 owner=470500980342128650
-prefix=E
+prefix=u
 game=Events-United
 stayinchannel=true
 
