@@ -3,4 +3,4 @@ owner=470500980342128650
 prefix=E
 game=Events-United
 stayinchannel=true
-songinstatus=true
+
